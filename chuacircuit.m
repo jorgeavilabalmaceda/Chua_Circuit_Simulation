@@ -2,7 +2,7 @@
 clc; clear; close all;
 
 alpha = 18.39; %%classico 16.6, a 18.4 diventa uno spirale
-beta = 39; %% classico è 28, 
+beta = 39; %% classico è 28, un'altro critico 39.4 (try 39.39 etc)
 m0 = -1.143;
 m1 = -0.714;
 
